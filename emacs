@@ -18,7 +18,7 @@
 ;; End ;;
 
 ;; EL-Get Stuff ;;
-(load "~/.emacs.d/el-get-conf.el")                         ;; Load secondary file containing el-git conf
+(load "~/.emacs.d/el-get-conf.el")                  ;; Load secondary file containing el-git conf
 ;; End
 
 ;; Solarized Color Theme ;;

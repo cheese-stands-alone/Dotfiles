@@ -7,7 +7,7 @@
 ########## Variables
 
 dir=~/.dotfiles                    # dotfiles directory
-files="xinitrc vimrc vim zshrc Xresources"    # list of files/folders to symlink in homedir
+files="xinitrc vimrc vim zshrc Xresources emacs emacs.d"    # list of files/folders to symlink in homedir
 
 ##########
 
@@ -21,3 +21,9 @@ for file in $files; do
 		echo "Creating symlink to $file in home directory."
 		        ln -s $dir/$file ~/.$file
 		done
+git add -A
+echo "Add commit"
+read commit
+git commit -m "$commit"
+git push git@github.com:rwhite226/Dotfiles.git
+
