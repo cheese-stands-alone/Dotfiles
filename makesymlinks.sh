@@ -7,7 +7,6 @@
 # Variables
 dir=~/.dotfiles                    # dotfiles directory
 files="xinitrc vimrc vim zshrc Xresources emacs emacs.d"    # list of files/folders to symlink in homedir
-gitacc=git@github.com:rwhite226/Dotfiles.git
 
 
 # change to the dotfiles directory
@@ -20,14 +19,4 @@ for file in $files; do
 		echo "Creating symlink to $file in home directory."
 		        ln -s $dir/$file ~/.$file
 		done
-# Git add any changed files
-git add -A
-
-#Ask for and add a commit for git
-echo "Add commit"
-read commit
-git commit -m "$commit"
-
-# Push changes to gitacc
-git push $gitacc
 
