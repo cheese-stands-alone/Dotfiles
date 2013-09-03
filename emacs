@@ -14,7 +14,8 @@
 (scroll-bar-mode -1)                                ;; Disable scrollbar
 (menu-bar-mode -1)                                  ;; Disable menubar
 (tool-bar-mode -1)                                  ;; Disable toolbar
-(add-to-list 'load-path "~/.emacs.d")
+(add-to-list 'load-path "~/.emacs.d")               ;; Load the emacs.d folder
+(prefer-coding-system 'utf-8)                       ;; Make utf-8 the default encoding
 ;; End ;;
 
 ;; EL-Get Stuff ;;
