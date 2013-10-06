@@ -17,8 +17,7 @@ SAVEHIST=1024
 export EDITOR="vim"
 export TERM=screen-256color-bce
 export _JAVA_OPTIONS='-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dswing.defaultlaf=com.sun.java.swing.plaf.gtk.GTKLookAndFeel'
-export PATH=$PATH:$HOME/.cabal/bin
-
+export PATH=/usr/lib/colorgcc/bin:$PATH:$HOME/.cabal/bin:/opt/java/bin/
 #-----------------------------
 # Dircolors
 #-----------------------------
@@ -33,6 +32,7 @@ alias sd="sudo shutdown -h 0"
 alias s="sudo s2ram --force"
 alias power="sudo cpupower frequency-set -g performance"
 alias vim='nocorrect vim'
+alias ise='/opt/Xilinx/14.6/ISE_DS/ISE/bin/lin64/ise'
 
 #------------------------------
 # Comp stuff

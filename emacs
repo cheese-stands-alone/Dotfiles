@@ -18,6 +18,13 @@
 (prefer-coding-system 'utf-8)                       ;; Make utf-8 the default encoding
 ;; End ;;
 
+;; ELPA ;;
+(setq package-archives '(
+    ("gnu" . "http://elpa.gnu.org/packages/")
+    ("marmalade" . "http://marmalade-repo.org/packages/")
+    ("melpa" . "http://melpa.milkbox.net/packages/")))
+;; End ;;
+
 ;; EL-Get Stuff ;;
 (load "~/.emacs.d/el-get-conf.el")                  ;; Load secondary file containing el-git conf
 ;; End
@@ -32,14 +39,24 @@
 ;; End ;;
 
 ;; Auto Complete ;;
-(require 'auto-complete-config)                     ;; Load autocomplete conf
-(ac-config-default)                                 ;; Load autocomplete
-(add-to-list 'ac-dictionary-directories 
-"~/.emacs.d/el-get/auto-complete/dict")             ;; Dictionary Directory for autocomplete
+;(require 'auto-complete-config)                     ;; Load autocomplete conf
+;(ac-config-default)                                 ;; Load autocomplete
+;(add-to-list 'ac-dictionary-directories 
+;"~/.emacs.d/el-get/auto-complete/dict")             ;; Dictionary Directory for autocomplete
 ;; End ;;
 
 ;; CEDET ;;
 (global-ede-mode 1)                                 ;; Enable the Project management system
 (semantic-load-enable-code-helpers)                 ;; Enable prototype help and smart completion 
 (global-srecode-minor-mode 1)                       ;; Enable template insertion menu
+;; End ;;
+
+;; ECLIM and Company;;
+(require 'eclim)
+(require 'eclimd)
+(global-eclim-mode)
+(require 'company)
+(require 'company-emacs-eclim)
+(company-emacs-eclim-setup)
+(global-company-mode t)
 ;; End ;;
