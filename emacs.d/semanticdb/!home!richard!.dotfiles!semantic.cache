@@ -1,0 +1,44 @@
+;; Object .dotfiles/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file ".dotfiles/"
+  :tables
+  (list
+
+    (semanticdb-table "emacs"
+      :major-mode 'emacs-lisp-mode
+      :tags 
+        '( ("set-frame-parameter" code nil nil [21 71])
+            ("cua-mode" code nil nil [81 93])
+            ("transient-mark-mode" code nil nil [160 183])
+            ("delete-selection-mode" code nil nil [240 265])
+            ("global-font-lock-mode" code nil nil [327 352])
+            ("show-paren-mode" code nil nil [406 425])
+            ("setq" code nil nil [494 529])
+            ("global-linum-mode" code nil nil [585 606])
+            ("column-number-mode" code nil nil [671 693])
+            ("setq" code nil nil [760 788])
+            ("setq" code nil nil [849 877])
+            ("setq-default" code nil nil [941 972])
+            ("scroll-bar-mode" code nil nil [1014 1034])
+            ("menu-bar-mode" code nil nil [1087 1105])
+            ("tool-bar-mode" code nil nil [1158 1176])
+            ("add-to-list" code nil nil [1229 1266])
+            ("prefer-coding-system" code nil nil [1308 1337])
+            ("load" code nil nil [1425 1459])
+            ("load-theme" code nil nil [1559 1589])
+            ("rainbow-delimiters" include nil nil [1674 1703])
+            ("global-rainbow-delimiters-mode" code nil nil [1758 1790])
+            ("auto-complete-config" include nil nil [1875 1906])
+            ("ac-config-default" code nil nil [1953 1972])
+            ("add-to-list" code nil nil [2026 2106])
+            ("global-ede-mode" code nil nil [2183 2202])
+            ("semantic-load-enable-code-helpers" code nil nil [2275 2310])
+            ("global-srecode-minor-mode" code nil nil [2374 2403]))          
+      :file "emacs"
+      :pointmax 2470
+      :fsize 2469
+      :lastmodtime '(21030 59032 750979 48000)
+      :unmatched-syntax nil))
+  :file "!home!richard!.dotfiles!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

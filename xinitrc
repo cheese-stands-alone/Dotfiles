@@ -15,5 +15,6 @@ fi
 # exec startkde
 # exec startxfce4
 # ...or the Window Manager of your choice
-xrdb -merge ~/.Xresources
-exec startlxde
+xrdb -load ~/.Xresources &
+urxvtcd &
+exec i3
