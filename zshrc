@@ -17,8 +17,12 @@ SAVEHIST=1024
 export EDITOR="vim"
 export TERM=screen-256color-bce
 export _JAVA_OPTIONS='-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dswing.defaultlaf=com.sun.java.swing.plaf.gtk.GTKLookAndFeel'
+<<<<<<< HEAD
 export PATH=$PATH:$HOME/.cabal/bin:/opt/java/bin
 
+=======
+export PATH=/usr/lib/colorgcc/bin:$PATH:$HOME/.cabal/bin:/opt/java/bin/
+>>>>>>> 60cd318a7722eda047e11f8e27fa5e860d404474
 #-----------------------------
 # Dircolors
 #-----------------------------
@@ -33,7 +37,11 @@ alias sd="sudo shutdown -h 0"
 alias s="sudo s2ram --force"
 alias power="sudo cpupower frequency-set -g performance"
 alias vim='nocorrect vim'
+<<<<<<< HEAD
 alias vpn='sudo systemctl restart openvpn@client.service'
+=======
+alias ise='/opt/Xilinx/14.6/ISE_DS/ISE/bin/lin64/ise'
+>>>>>>> 60cd318a7722eda047e11f8e27fa5e860d404474
 
 #------------------------------
 # Comp stuff
