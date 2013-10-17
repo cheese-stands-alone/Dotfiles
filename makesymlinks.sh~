@@ -6,7 +6,7 @@
 
 # Variables
 dir=~/.dotfiles                    # dotfiles directory
-files="xinitrc vimrc vim zshrc Xresources emacs i3"    # list of files/folders to symlink in homedir
+files="xinitrc vimrc vim zshrc Xresources emacs emacs.d"    # list of files/folders to symlink in homedir
 
 
 # change to the dotfiles directory
