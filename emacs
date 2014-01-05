@@ -23,6 +23,7 @@
     ("gnu" . "http://elpa.gnu.org/packages/")
     ("marmalade" . "http://marmalade-repo.org/packages/")
     ("melpa" . "http://melpa.milkbox.net/packages/")))
+(package-initialize)
 ;; End ;;
 
 ;; EL-Get Stuff ;;
@@ -51,12 +52,6 @@
 (global-srecode-minor-mode 1)                       ;; Enable template insertion menu
 ;; End ;;
 
-;; ECLIM and Company;;
-(require 'eclim)
-(require 'eclimd)
-(global-eclim-mode)
-(require 'company)
-(require 'company-emacs-eclim)
-(company-emacs-eclim-setup)
-(global-company-mode t)
+;; Company;;
+(add-hook 'after-init-hook 'global-company-mode)
 ;; End ;;

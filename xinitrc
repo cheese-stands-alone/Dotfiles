@@ -16,5 +16,5 @@ fi
 # exec startxfce4
 # ...or the Window Manager of your choice
 xrdb -load ~/.Xresources &
-urxvtcd &
+xsetroot -solid "#002b36"
 exec i3
