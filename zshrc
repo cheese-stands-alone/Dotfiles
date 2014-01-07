@@ -22,6 +22,7 @@ export PATH=/usr/lib/colorgcc/bin:$(cope_path):$PATH:$HOME/.cabal/bin:/opt/java/
 # Dircolors
 #-----------------------------
 eval `dircolors /home/richard/Stuff/dircolors-solarized/dircolors.256dark`
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 #------------------------------
 # Alias stuff
@@ -34,7 +35,7 @@ alias power="sudo cpupower frequency-set -g performance"
 alias vim='nocorrect vim'
 alias vpn='sudo systemctl restart openvpn@client.service'
 alias ise='/opt/Xilinx/14.6/ISE_DS/ISE/bin/lin64/ise'
-alias em='TERM=xterm-16color emacs -nw'
+alias em='TERM=xterm-16color emacsclient -nw -a ""'
 
 #------------------------------
 # Comp stuff

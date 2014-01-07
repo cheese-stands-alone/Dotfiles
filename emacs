@@ -1,5 +1,6 @@
 ;; General Setup ;;
 (set-frame-parameter nil 'font "ProggyCleanSZ-12")  ;; Font
+(setq default-frame-alist '((font . "ProggyCleanSZ-12")))
 (cua-mode 1)                                        ;; Allow ctl-c/v copy past
 (transient-mark-mode 1)                             ;; Highlight text selection
 (delete-selection-mode 1)                           ;; Delete seleted text when typing
@@ -40,18 +41,35 @@
 ;; End ;;
 
 ;; Auto Complete ;;
-;(require 'auto-complete-config)                     ;; Load autocomplete conf
-;(ac-config-default)                                 ;; Load autocomplete
-;(add-to-list 'ac-dictionary-directories 
-;"~/.emacs.d/el-get/auto-complete/dict")             ;; Dictionary Directory for autocomplete
+(require 'auto-complete)
+(require 'auto-complete-config)
+(ac-config-default)
+(require 'yasnippet)
+(require 'irony) ;Note: hit `C-c C-b' to open build menu
+ ;; the ac plugin will be activated in each buffer using irony-mode
+(irony-enable 'ac)             ; hit C-RET to trigger completion
+(defun my-c++-hooks ()
+  (yas/minor-mode-on)
+  (auto-complete-mode 1)
+  (setq ac-sources (append '(ac-source-semantic) ac-sources))
+  (semantic-mode t)
+ ;; avoid enabling irony-mode in modes that inherits c-mode, e.g:
+ (when (member major-mode irony-known-modes)
+   (irony-mode 1)))
+(add-hook 'c++-mode-hook 'my-c++-hooks)
+(add-hook 'c-mode-hook 'my-c++-hooks)
 ;; End ;;
 
 ;; CEDET ;;
 (global-ede-mode 1)                                 ;; Enable the Project management system
 (semantic-load-enable-code-helpers)                 ;; Enable prototype help and smart completion 
 (global-srecode-minor-mode 1)                       ;; Enable template insertion menu
+(global-semantic-idle-completions-mode t)
+(global-semantic-decoration-mode t)
+(global-semantic-highlight-func-mode t)
+(global-semantic-show-unmatched-syntax-mode t)
 ;; End ;;
 
-;; Company;;
-(add-hook 'after-init-hook 'global-company-mode)
-;; End ;;
+   (setq c-default-style "stroustrup"
+                   c-basic-offset 4)
+(set-fringe-mode 0)
