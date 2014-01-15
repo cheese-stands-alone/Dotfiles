@@ -17,4 +17,5 @@ fi
 # ...or the Window Manager of your choice
 xrdb -load ~/.Xresources &
 xsetroot -solid "#002b36"
+/usr/bin/setxkbmap -option "ctrl:swapcaps"
 exec i3

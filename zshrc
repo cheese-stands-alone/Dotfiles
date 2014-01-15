@@ -15,7 +15,7 @@ SAVEHIST=1024
 # Variables
 #------------------------------
 export EDITOR="vim"
-export TERM=screen-256color-bce
+export TERM=screen-256color
 export _JAVA_OPTIONS='-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dswing.defaultlaf=com.sun.java.swing.plaf.gtk.GTKLookAndFeel'
 export PATH=/usr/lib/colorgcc/bin:$(cope_path):$PATH:$HOME/.cabal/bin:/opt/java/bin/
 #-----------------------------
