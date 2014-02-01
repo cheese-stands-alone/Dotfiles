@@ -53,6 +53,7 @@
   (auto-complete-mode 1)
   (setq ac-sources (append '(ac-source-semantic) ac-sources))
   (semantic-mode t)
+  (auto-make-header)
  ;; avoid enabling irony-mode in modes that inherits c-mode, e.g:
  (when (member major-mode irony-known-modes)
    (irony-mode 1)))
