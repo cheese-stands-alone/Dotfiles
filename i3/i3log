@@ -28407,3 +28407,220 @@ Could not check applicable rules for about:newtab
 02/07/2014 06:47:12 PM - WM_HINTS.input changed to "1"
 02/07/2014 06:47:13 PM - ClientMessage for window 0x01603155
 02/07/2014 06:47:15 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:47:37 PM - WM_HINTS.input changed to "1"
+02/07/2014 06:47:39 PM - WM_HINTS.input changed to "1"
+02/07/2014 06:47:47 PM - _NET_WM_NAME changed to "Sign in · GitHub - Mozilla Firefox"
+02/07/2014 06:47:55 PM - ClientMessage for window 0x01608d81
+02/07/2014 06:48:00 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:01 PM - Sending WM_DELETE to the client
+02/07/2014 06:48:01 PM - WM_HINTS.input changed to "1"
+02/07/2014 06:48:01 PM - ClientMessage for window 0x01600075
+02/07/2014 06:48:01 PM - workspace visible? fs = 0x1477720, ws = 0x1477720
+02/07/2014 06:48:01 PM - ClientMessage for window 0x01609077
+02/07/2014 06:48:01 PM - WM_CLASS changed to Dialog (instance), Firefox (class)
+02/07/2014 06:48:01 PM - WM_HINTS.input changed to "1"
+02/07/2014 06:48:01 PM - Checking window 0x01609077 (class Firefox)
+02/07/2014 06:48:01 PM - dock status does not match
+02/07/2014 06:48:01 PM - Checking window 0x01609077 (class Firefox)
+02/07/2014 06:48:01 PM - dock status does not match
+02/07/2014 06:48:01 PM - workspace visible? fs = 0x1477720, ws = 0x1477720
+02/07/2014 06:48:01 PM - This window is a dialog window, setting floating
+02/07/2014 06:48:01 PM - This window is transient for another window, setting floating
+02/07/2014 06:48:01 PM - workspace visible? fs = 0x1477720, ws = 0x1477720
+02/07/2014 06:48:01 PM - _NET_WM_NAME changed to "Confirm close"
+02/07/2014 06:48:01 PM - WM_HINTS.input changed to "1"
+02/07/2014 06:48:03 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:03 PM - expose event for unknown window, ignoring
+02/07/2014 06:48:03 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:03 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:03 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:03 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:03 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:03 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:03 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:03 PM - WM_HINTS.input changed to "1"
+02/07/2014 06:48:03 PM - WM_HINTS.input changed to "1"
+02/07/2014 06:48:04 PM - focused now = 0x1476f60 / #00FF00
+02/07/2014 06:48:04 PM - workspace visible? fs = 0x1475bf0, ws = 0x1475bf0
+02/07/2014 06:48:04 PM - workspace visible? fs = 0x1475bf0, ws = 0x1477720
+02/07/2014 06:48:06 PM - startup id = i3/dmenu_run/1013-4-Rio_Grande_TIME2011615
+02/07/2014 06:48:06 PM - executing: dmenu_run -fn -windows-proggycleanszbp-medium-r-normal--13-80-96-96-c-70-iso8859-1 -nb "#002b36"
+02/07/2014 06:48:06 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:09 PM - ClientMessage for window 0x01400023
+02/07/2014 06:48:09 PM - WM_CLASS changed to chromium (instance), Chromium (class)
+02/07/2014 06:48:09 PM - WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:09 PM - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+02/07/2014 06:48:09 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:09 PM - WM_WINDOW_ROLE changed to "browser"
+02/07/2014 06:48:09 PM - WM_HINTS.input changed to "1"
+02/07/2014 06:48:09 PM - Checking window 0x01400023 (class Chromium)
+02/07/2014 06:48:09 PM - dock status does not match
+02/07/2014 06:48:09 PM - Checking window 0x01400023 (class Chromium)
+02/07/2014 06:48:09 PM - dock status does not match
+02/07/2014 06:48:09 PM - workspace visible? fs = 0x1475bf0, ws = 0x1475bf0
+02/07/2014 06:48:09 PM - workspace visible? fs = 0x1475bf0, ws = 0x1475bf0
+[6773:6773:0207/184809:ERROR:profile_sync_service.cc(1200)] History Delete Directives datatype error was encountered: Delete directives not supported with encryption.
+02/07/2014 06:48:09 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:10 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:10 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:10 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+[6773:6830:0207/184810:ERROR:download.cc(330)] PostClientToServerMessage() failed during GetUpdates
+02/07/2014 06:48:10 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:11 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:11 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:11 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:11 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:12 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:12 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:12 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:12 PM - _NET_WM_NAME changed to "Untitled - Chromium"
+02/07/2014 06:48:12 PM - _NET_WM_NAME changed to "Gmail - Chromium"
+02/07/2014 06:48:13 PM - _NET_WM_NAME changed to "Gmail - Chromium"
+02/07/2014 06:48:13 PM - _NET_WM_NAME changed to "Gmail - Chromium"
+02/07/2014 06:48:13 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:13 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:13 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:14 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:14 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:14 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:14 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:14 PM - ClientMessage for window 0x014005dd
+02/07/2014 06:48:15 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:15 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:15 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:16 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:17 PM - ClientMessage for window 0x014005dd
+02/07/2014 06:48:17 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:17 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:19 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:19 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:19 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:20 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:20 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:20 PM - _NET_WM_NAME changed to "Google Calendar - Chromium"
+02/07/2014 06:48:20 PM - _NET_WM_NAME changed to "https://www.google.com/search?q=rwhite226&oq=rwhite226&aqs=chrome..69i57j69i61j69i60j69i61j69i60j69i59.5235j0j4&sourceid=chrome&ie=UTF-8 - Chromium"
+02/07/2014 06:48:20 PM - _NET_WM_NAME changed to "rwhite226 - Google Search - Chromium"
+02/07/2014 06:48:20 PM - _NET_WM_NAME changed to "rwhite226 - Google Search - Chromium"
+02/07/2014 06:48:21 PM - _NET_WM_NAME changed to "rwhite226 - Google Search - Chromium"
+02/07/2014 06:48:22 PM - _NET_WM_NAME changed to "rwhite226 - Google Search - Chromium"
+02/07/2014 06:48:22 PM - _NET_WM_NAME changed to "rwhite226 - Google Search - Chromium"
+02/07/2014 06:48:22 PM - _NET_WM_NAME changed to "rwhite226 - Google Search - Chromium"
+02/07/2014 06:48:23 PM - _NET_WM_NAME changed to "rwhite226 - Google Search - Chromium"
+02/07/2014 06:48:23 PM - _NET_WM_NAME changed to "rwhite226 - Google Search - Chromium"
+02/07/2014 06:48:23 PM - _NET_WM_NAME changed to "rwhite226 - Google Search - Chromium"
+02/07/2014 06:48:23 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:23 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:23 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:23 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:23 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:23 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:24 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:24 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:24 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:25 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:25 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:25 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:25 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:26 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:26 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:26 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:26 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:27 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:27 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:27 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:27 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:28 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:28 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:28 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:28 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:28 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:29 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:29 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:29 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:29 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:30 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:30 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:30 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:31 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:31 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:31 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:32 PM - _NET_WM_NAME changed to "Inbox (2) - rwhite226@gmail.com - Gmail - Chromium"
+[6773:6799:0207/184832:ERROR:audio_manager_base.cc(422)] Not implemented reached in virtual std::string media::AudioManagerBase::GetDefaultOutputDeviceID()
+02/07/2014 06:48:32 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+[6773:6791:0207/184832:ERROR:audio_manager_base.cc(422)] Not implemented reached in virtual std::string media::AudioManagerBase::GetDefaultOutputDeviceID()
+02/07/2014 06:48:32 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:33 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:33 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:33 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:33 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:34 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:34 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:34 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:34 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:35 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:35 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:35 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:35 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:36 PM - _NET_WM_NAME changed to "[carc] February 11th Amateur Radio License Exams -- Ames, Iowa. - rwhite226@gmail.com - Gmail - Chromium"
+02/07/2014 06:48:36 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) · GitHub - Chromium"
+02/07/2014 06:48:41 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) · GitHub - Chromium"
+02/07/2014 06:48:41 PM - _NET_WM_NAME changed to "https://github.com/login?return_to=%2Frwhite226 - Chromium"
+02/07/2014 06:48:42 PM - _NET_WM_NAME changed to "Sign in · GitHub - Chromium"
+02/07/2014 06:48:42 PM - _NET_WM_NAME changed to "Sign in · GitHub - Chromium"
+02/07/2014 06:48:42 PM - _NET_WM_NAME changed to "Sign in · GitHub - Chromium"
+02/07/2014 06:48:44 PM - _NET_WM_NAME changed to "Sign in · GitHub - Chromium"
+02/07/2014 06:48:44 PM - _NET_WM_NAME changed to "Sign in · GitHub - Chromium"
+02/07/2014 06:48:44 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:44 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:45 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:45 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:45 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:45 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:46 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:46 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:46 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:46 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:50 PM - Sending WM_DELETE to the client
+02/07/2014 06:48:50 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:50 PM - expose event for unknown window, ignoring
+02/07/2014 06:48:50 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:50 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:50 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:50 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:52 PM - Sending WM_DELETE to the client
+02/07/2014 06:48:52 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:52 PM - expose event for unknown window, ignoring
+02/07/2014 06:48:52 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:52 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:52 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:52 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:48:54 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:54 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:54 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:54 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:54 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:54 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:54 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:54 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:58 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) - Chromium"
+02/07/2014 06:48:58 PM - _NET_WM_NAME changed to "https://github.com/settings/profile - Chromium"
+02/07/2014 06:48:59 PM - _NET_WM_NAME changed to "Your Profile - Chromium"
+02/07/2014 06:48:59 PM - _NET_WM_NAME changed to "Your Profile - Chromium"
+02/07/2014 06:48:59 PM - _NET_WM_NAME changed to "Your Profile - Chromium"
+02/07/2014 06:49:00 PM - _NET_WM_NAME changed to "Your Profile - Chromium"
+02/07/2014 06:49:00 PM - _NET_WM_NAME changed to "Your Profile - Chromium"
+02/07/2014 06:49:00 PM - _NET_WM_NAME changed to "Your Profile - Chromium"
+02/07/2014 06:49:00 PM - _NET_WM_NAME changed to "Your Profile - Chromium"
+02/07/2014 06:49:01 PM - _NET_WM_NAME changed to "Your Profile - Chromium"
+02/07/2014 06:49:01 PM - _NET_WM_NAME changed to "Your Profile - Chromium"
+02/07/2014 06:49:01 PM - _NET_WM_NAME changed to "Your Profile - Chromium"
+02/07/2014 06:49:01 PM - _NET_WM_NAME changed to "SSH Keys - Chromium"
+02/07/2014 06:49:06 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:49:08 PM - ClientMessage for window 0x0140182b
+02/07/2014 06:49:08 PM - ClientMessage for window 0x01401840
+02/07/2014 06:49:09 PM - ClientMessage for window 0x01401845
+02/07/2014 06:49:09 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:49:12 PM - focused now = 0x14a54b0 / #ff0000
+02/07/2014 06:49:12 PM - workspace visible? fs = 0x1477720, ws = 0x1475bf0
+02/07/2014 06:49:12 PM - workspace visible? fs = 0x1477720, ws = 0x1477720
+02/07/2014 06:49:13 PM - WM_HINTS.input changed to "1"
