@@ -18,4 +18,7 @@ fi
 xrdb -load ~/.Xresources &
 xsetroot -solid "#002b36"
 /usr/bin/setxkbmap -option "ctrl:swapcaps"
-exec i3
+/usr/bin/xcalib -v ~/Stuff/TPLCD.ICM
+nm-applet &
+urxvtcd
+exec i3 -V >> ~/.i3/i3log 2>&1

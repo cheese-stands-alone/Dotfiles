@@ -72,7 +72,11 @@ set background=dark " When set to "dark", Vim will try to use colors that look
                     " Any other value is illegal.
  
 set mouse=a         " Enable the use of the mouse.
- 
+set nocompatible
+set t_Co=16
+call pathogen#infect()
+set cursorline
+set colorcolumn=80
 filetype plugin indent on
 syntax on
 colorscheme solarized

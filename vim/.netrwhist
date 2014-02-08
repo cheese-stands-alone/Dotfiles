@@ -1,7 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/home/richard/.emacs.d'
 let g:netrw_dirhist_2='/home/richard/Downloads/kmscon-git'
 let g:netrw_dirhist_3='/home/richard/dotfiles'
 let g:netrw_dirhist_4='/home/richard/.Xilinx'
 let g:netrw_dirhist_5='/home/richard/Downloads/usr/lib/pkgconfig'
+let g:netrw_dirhist_6='/home/richard/.i3'
+let g:netrw_dirhist_7='/home/richard/Downloads/evilvte-git/evilvte'
