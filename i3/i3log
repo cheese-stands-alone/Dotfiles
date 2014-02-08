@@ -28390,3 +28390,20 @@ urxvt: perl extension 'clipboard' not found in perl library search path
 02/07/2014 06:44:45 PM - ClientMessage for window 0x01600265
 02/07/2014 06:44:50 PM - Not a managed window, ignoring UnmapNotify event
 02/07/2014 06:44:50 PM - _NET_WM_NAME changed to "git add fle - Google Search - Mozilla Firefox"
+02/07/2014 06:46:28 PM - WM_HINTS.input changed to "1"
+Could not check applicable rules for about:newtab
+02/07/2014 06:46:30 PM - _NET_WM_NAME changed to "New Tab - Mozilla Firefox"
+02/07/2014 06:46:32 PM - ClientMessage for window 0x0160770c
+Could not check applicable rules for about:newtab
+Could not check applicable rules for about:newtab
+Could not check applicable rules for about:newtab
+02/07/2014 06:46:34 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:46:34 PM - ClientMessage for window 0x016077de
+02/07/2014 06:46:34 PM - Not a managed window, ignoring UnmapNotify event
+02/07/2014 06:46:37 PM - _NET_WM_NAME changed to "girwhite226t add fle - Google Search - Mozilla Firefox"
+02/07/2014 06:46:44 PM - _NET_WM_NAME changed to "rwhite226 - Google Search - Mozilla Firefox"
+02/07/2014 06:46:47 PM - _NET_WM_NAME changed to "rwhite226 (RIchard White) · GitHub - Mozilla Firefox"
+02/07/2014 06:46:51 PM - WM_HINTS.input changed to "1"
+02/07/2014 06:47:12 PM - WM_HINTS.input changed to "1"
+02/07/2014 06:47:13 PM - ClientMessage for window 0x01603155
+02/07/2014 06:47:15 PM - Not a managed window, ignoring UnmapNotify event
