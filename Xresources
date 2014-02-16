@@ -7,7 +7,7 @@ Xft*hinting:                    true
 Xft*hintstyle:                  hintsfull
 
 ! URxvt settings ------------------------------------------------------------
-URxvt*termName:                 rxvt-256color
+URxvt*termName:                 rxvt-16color
 URxvt*depth:                    24
 URxvt*scrollBar:                false
 !URxvt*font:                    xft:Inconsolata-Regular:pixelsize=12

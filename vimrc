@@ -76,7 +76,8 @@ set nocompatible
 set t_Co=16
 call pathogen#infect()
 set cursorline
-set colorcolumn=80
+set colorcolumn=81
+highlight ColorColumn ctermbg=green
 filetype plugin indent on
 syntax on
 colorscheme solarized
